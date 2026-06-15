@@ -1,5 +1,5 @@
 
-
+// It is a dual port BRAM in which it outputs only 2 values at a time
 
 module BRAM_2_outdata #(
     parameter DATA_WIDTH = 16,
