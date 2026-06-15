@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-
+// It is a buffer in which we can write values through write address and read values through read address
 // ================= BRAM BUFFER =================
 module BRAM_Buffer #(
     parameter DATA_WIDTH = 16,
