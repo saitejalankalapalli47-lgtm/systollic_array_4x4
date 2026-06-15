@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 
-
+// PE array which has 16 PE blocks as a 4x4 grid in which the pixels move from left to right and the weights move from top to bottom
 
 
 module pe_array#(
