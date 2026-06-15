@@ -1,1 +1,1 @@
-# systollic_array_4x4
+# Systollic_Array_4x4
