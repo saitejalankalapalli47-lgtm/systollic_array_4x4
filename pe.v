@@ -1,3 +1,6 @@
+// PE block which multiplies and accumulates the Pixels and Weights
+
+
 `timescale 1ns / 1ps
 
 
